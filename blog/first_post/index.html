@@ -101,19 +101,31 @@
 </header>
 <!-- /navigation -->
 
-<section class="section">
+<section class="section-sm">
   <div class="container">
-    <div class="row justify-content-center">
-      <div class="col-lg-10">
-        <div id="search-results"></div>
-        <script id="search-result-template" type="text/x-js-template">
-          <div class="py-4 border-bottom" id="summary-${key}">
-            <h4><a href="${link}">${title}</a></h4>
-            <p>${snippet}</p>
-            ${ isset tags }<p>Tags: ${tags}</p>${ end }
-            ${ isset categories }<p>Categories: ${categories}</p>${ end }
-          </div>
-        </script>
+    <div class="row">
+      <div class="col-lg-8 mx-auto">
+        
+        <a href="/categories/idol"
+          class="text-primary">Idol</a>
+        
+        <h2>我的第一篇文章</h2>
+        <div class="mb-3 post-meta">
+          <span>By ひな</span>
+          
+          <span class="border-bottom border-primary px-2 mx-1"></span>
+          <span>01 July 2020</span>
+          
+        </div>
+        
+        <img src="https://kang0921.github.io/images/Ashin01.jpg" class="img-fluid w-100 mb-4" alt="我的第一篇文章">
+        
+        <div class="content mb-5">
+          
+        </div>
+
+        
+        
       </div>
     </div>
   </div>
