@@ -1,53 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Liva | Personal blog template</title>
+    <title>Tags on Sophia部落格</title>
     <link>https://kang0921.github.io/tags/</link>
-    <description>Recent content in Tags on Liva | Personal blog template</description>
+    <description>Recent content in Tags on Sophia部落格</description>
     <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Tue, 29 Oct 2019 10:07:47 +0600</lastBuildDate>
+    <language>zh-tw</language>
+    <lastBuildDate>Thu, 31 Oct 2024 20:30:47 +0800</lastBuildDate>
     <atom:link href="https://kang0921.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Game</title>
-      <link>https://kang0921.github.io/tags/game/</link>
-      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
-      <guid>https://kang0921.github.io/tags/game/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>HTML</title>
-      <link>https://kang0921.github.io/tags/html/</link>
-      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
-      <guid>https://kang0921.github.io/tags/html/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>New</title>
-      <link>https://kang0921.github.io/tags/new/</link>
-      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
-      <guid>https://kang0921.github.io/tags/new/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Photos</title>
-      <link>https://kang0921.github.io/tags/photos/</link>
-      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
-      <guid>https://kang0921.github.io/tags/photos/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Python</title>
-      <link>https://kang0921.github.io/tags/python/</link>
-      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
-      <guid>https://kang0921.github.io/tags/python/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>React</title>
-      <link>https://kang0921.github.io/tags/react/</link>
-      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
-      <guid>https://kang0921.github.io/tags/react/</guid>
+      <title>API</title>
+      <link>https://kang0921.github.io/tags/api/</link>
+      <pubDate>Thu, 31 Oct 2024 20:30:47 +0800</pubDate>
+      <guid>https://kang0921.github.io/tags/api/</guid>
       <description></description>
     </item>
   </channel>
