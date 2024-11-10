@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>環境 on Sophia的程式筆記</title>
-    <link>http://localhost:1313/categories/%E7%92%B0%E5%A2%83/</link>
+    <link>https://kang0921.github.io/categories/%E7%92%B0%E5%A2%83/</link>
     <description>Recent content in 環境 on Sophia的程式筆記</description>
     <generator>Hugo</generator>
     <language>zh-tw</language>
     <lastBuildDate>Sun, 10 Nov 2024 18:53:00 +0800</lastBuildDate>
-    <atom:link href="http://localhost:1313/categories/%E7%92%B0%E5%A2%83/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://kang0921.github.io/categories/%E7%92%B0%E5%A2%83/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>在Linux下安裝CUDA/cuDNN環境</title>
-      <link>http://localhost:1313/blog/%E5%9C%A8linux%E4%B8%8B%E5%AE%89%E8%A3%9Dcuda-cudnn%E7%92%B0%E5%A2%83/</link>
+      <link>https://kang0921.github.io/blog/%E5%9C%A8linux%E4%B8%8B%E5%AE%89%E8%A3%9Dcuda-cudnn%E7%92%B0%E5%A2%83/</link>
       <pubDate>Sun, 10 Nov 2024 18:53:00 +0800</pubDate>
-      <guid>http://localhost:1313/blog/%E5%9C%A8linux%E4%B8%8B%E5%AE%89%E8%A3%9Dcuda-cudnn%E7%92%B0%E5%A2%83/</guid>
+      <guid>https://kang0921.github.io/blog/%E5%9C%A8linux%E4%B8%8B%E5%AE%89%E8%A3%9Dcuda-cudnn%E7%92%B0%E5%A2%83/</guid>
       <description>&lt;h1 id=&#34;在linux下安裝cudacudnn環境&#34;&gt;在Linux下安裝CUDA/cuDNN環境&lt;/h1&gt;&#xA;&lt;h2 id=&#34;環境&#34;&gt;環境&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Ubuntu: 22.04.3 LTS&lt;/li&gt;&#xA;&lt;li&gt;NVIDIA 驅動程式(Driver version): 560.94&lt;/li&gt;&#xA;&lt;li&gt;CUDA: 12.4&lt;/li&gt;&#xA;&lt;li&gt;cuDNN: 9.5.1&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;版本查看方式&lt;/strong&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Ubuntu：先在windows下指令&lt;code&gt;wsl --install&lt;/code&gt;來啟動ubuntu，查看版本&lt;code&gt;lsb_release -a&lt;/code&gt;&lt;/p&gt;</description>
     </item>
   </channel>
